@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watchitgo333" alt="watchitgo333" /></a> </p>
 
-- 🔭 I’m currently working on **Bootcamp Ajax**
+- 🔭 I’m currently working on **Bootcamp Java OOP**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Python, C# and Solidity**
+- 🌱 I’m currently learning **HTML, CSS, JS, Python, JAVA C# and Solidity**
 
 - 📫 How to reach me **bruskyeric@gmail.com**
 
