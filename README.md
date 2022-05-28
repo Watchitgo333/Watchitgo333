@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bootcamp Java Spring MVC**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Python, JAVA, C# and Solidity**
+- 🌱 I’m currently learning **HTML, CSS, JS, Python, JAVA, Creating pyRevit Addins and Solidity**
 
 - 📫 How to reach me **bruskyeric@gmail.com**
 
