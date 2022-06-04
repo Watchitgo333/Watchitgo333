@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watchitgo333" alt="watchitgo333" /></a> </p>
 
-- 🔭 I’m currently working on **Bootcamp Java Spring MVC**
+- 🔭 I’m currently working on **Bootcamp Java Spring MVC, Algorithms**
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Python, JAVA, Creating pyRevit Addins and Solidity**
 
