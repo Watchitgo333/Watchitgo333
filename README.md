@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watchitgo333" alt="watchitgo333" /></a> </p>
 
-- 🔭 I’m currently working on **Bootcamp MERN, Algorithms**
+- 🔭 I’m currently working on **Personal Projects, React-Native, Algorithms**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Python, JAVA, MERN, Creating pyRevit Addins and Solidity**
+- 🌱 I’m currently learning **HTML, CSS, JS, Python, JAVA, MERN, React-Native**
 
 - 📫 How to reach me **bruskyeric@gmail.com**
 
